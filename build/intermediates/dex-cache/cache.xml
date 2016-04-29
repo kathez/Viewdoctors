@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_af6744523a418959a71b7c744fd64d1dc780c007/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_090ab79dbf0ccacbcccce50343a239d6017b93f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_a7dba0c102d539b2885ab7e1d0e84c9ac093f1cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="69bfac9971a83cc42b78c8b87370c04e42184329">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e3228fc6b7bf9992e646a34a43bde21b30ff51f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_0e3f1165c27372dfa71d27312fcbc40c6fbd2690/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_a585ef0e0b4a3c4b325e4ee3c20b598786f28726/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_e35a04d53dd4a6ecd989e3c64d355c910fe83dc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_208d4fe86952cb57156379fd91a7fb91a7564360/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_81b5513ff84d2d36a1a4310dfe24b1b7cdd87f5c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de96e4800b9502077224966feb8652f2270f48c5">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_957a2b3f03e324d49856cfb1c97a0cb8854584c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_52df907a1c82e548b2831191e26b1210c7cc6457/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_249f04bad09cc19ddd0788939f5d0c0448760c6e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_67862c4106a0a6bbdfcdc60ec09080e679198c36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_334743456e90f4e6b211b5407b72b5a7496e7f37/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_079449f7a882b95026eda440a1fe5d50666ad74d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_60b7593c7703d986b0ab0744aaef5a669f8f3827/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_37046c0964c09160954be4902c33128047862c98/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_b00c95a56554e23bdf950096d93dd6ad3b9900fd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_baafc99b5dfa951ede6509428612d590a008e079/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_61f3d15bf033319c66677ee2ea32ce9b28fd5060/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d242aba33c3866def557ff068ac9a796c9bfbcb4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_0b5d8a6a1add04057b3d22fdd6917bbc4d87ac17/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_4da0dcf18757ac06332fddb12b1eaba9ef2e0eab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_1fcb8dde87fc2b834c9ac491462cbdecf2209354/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_396413fb2a42af8556ef53681439d2ab2fc63525/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_e25ed2cecaddd1a7b67a13b97ac5f69d1285709f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_0b57fff318579c22609ff09d7652c2fd11d94b15/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_c475e2550e649632cab02bc7fdbf69ece7c9fcdd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_d5d638a33c5409e04d5b75086d617f9dc6ce04a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_37244db28e83c6cbc3a3a3170daaa52924e51992/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_894e5804bec6c832b838bb9fa9faa44b6c165bde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_911ce8297fbbfd323a02402dd153f34428cd8dee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/iguest/AndroidStudioProjects/Viewdoctors/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_2416c76c2c1f52082f9f3de6b76250837bec9edf/classes.dex" />
+    </item>
+
+</items>
